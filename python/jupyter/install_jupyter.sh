@@ -1,6 +1,7 @@
 apt install python3-setuptools python3-pip python-pygments python3-matplotlib python3-scipy python3-numpy python3-networkx python3-pandas ipython3 python-pip python-setuptools unp htop
 pip3 install jupyter sympy seaborn
 
+
 jupyter notebook --generate-config
 
 # In [1]: from notebook.auth import passwd
